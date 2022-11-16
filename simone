@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<h1 style="text-align:center;">FORM CON WEB API E CHIAMATE AJAX</h1>
+	</head>
+		<body>
+			<form name="ordinazione" method="post">
+							NOME:<input type="text" name="nome" placeholder="scrivi..">
+							<input type="submit" name="invia" value="invia"><br>
+							COGNOME:<input type="text" name="cognome" placeholder="scrivi..">
+							<input type="submit" name="invia" value="invia"><br>
+							DATA DI NASCITA:<input type="text" name="data" placeholder="distanzia con -">
+							<input type="submit" name="invia" value="invia"><br>
+			</form>
+					<script>
+				
+					</script>
+		</body>
+</html>
